@@ -1,14 +1,3 @@
-# example-workshop-git
+# Example git repo for workshop
 
-sjhdgfjhgsdf
-sdjfhgsdjh
-
-
-public class X {
-
-	kajhsdkjashd
-}
-
-example-workshop-git
-
-hier zit prg2 te programmeren. 
+I used it with git workshops.
