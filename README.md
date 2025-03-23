@@ -1,3 +1,3 @@
 # Example git repo for workshop
 
-I used it with git workshops.
+I use it sometimes when explaining about git... 
